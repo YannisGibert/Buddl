@@ -65,9 +65,8 @@ npm install
 
 #### **4. Importer les données**
 Dans MongoDB, importe les fichiers JSON dans la base de données :
-```
 Pour importer les données il suffit sur MongoDB Compass de créer une Base de données (si cela n'est pas déjà fait) pui de créer une table et de cliquer sur "Import Data" et de sélectionner le fichier json souhaité.
-```
+
 
 #### **5. Démarrer le backend**
 ```bash
