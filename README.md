@@ -49,8 +49,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 #### **1. Cloner le dépôt**
 ```bash
-git clone https://github.com/ton-utilisateur/buddli-analytics.git
-cd buddli-analytics
+git clone https://github.com/YannisGibert/buddl-analytics.git
+cd buddl-analytics
 ```
 
 #### **2. Installer les dépendances du backend**
@@ -64,7 +64,7 @@ npm install
 - Si vous utilisez **MongoDB Atlas**, configurez l'URL de connexion dans `backend/server.js`.
 
 #### **4. Importer les données**
-Dans MongoDB, importe les fichiers JSON dans la base de données :
+Dans MongoDB Compass, importe les fichiers JSON dans la base de données :
 Pour importer les données il suffit sur MongoDB Compass de créer une Base de données (si cela n'est pas déjà fait) pui de créer une table et de cliquer sur "Import Data" et de sélectionner le fichier json souhaité.
 
 
