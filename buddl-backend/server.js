@@ -19,7 +19,7 @@ db.once('open', () => {
 });
 
 // Route pour les ventes
-app.get('/ventes', async (req, res) => {
+app.get('/data', async (req, res) => {
   try {
     const data = await db.collection('Ventes').find({}).toArray();
     res.json(data);

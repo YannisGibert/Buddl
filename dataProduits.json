@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nom": "Produit A",
+    "nom": "Iphone",
     "categorie": "Électronique",
     "prix_achat": 50,
     "prix_vente": 100,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "nom": "Produit B",
+    "nom": "Mac",
     "categorie": "Électronique",
     "prix_achat": 30,
     "prix_vente": 80,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "nom": "Produit C",
+    "nom": "Short de bain",
     "categorie": "Vêtements",
     "prix_achat": 20,
     "prix_vente": 50,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "nom": "Produit D",
+    "nom": "Maillot PSG",
     "categorie": "Vêtements",
     "prix_achat": 15,
     "prix_vente": 40,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "nom": "Produit E",
+    "nom": "Pomme",
     "categorie": "Alimentation",
     "prix_achat": 5,
     "prix_vente": 10,

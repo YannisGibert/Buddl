@@ -2,19 +2,46 @@
   {
     "mois": "Janvier",
     "annee": 2023,
-    "revenus": 1000,
-    "depenses": 400
+    "revenus": 1000
   },
   {
     "mois": "Février",
     "annee": 2023,
-    "revenus": 1500,
-    "depenses": 500
+    "revenus": 1500
+  },
+  {
+    "mois": "Mars",
+    "annee": 2023,
+    "revenus": 7500
+  },
+  {
+    "mois": "Avril",
+    "annee": 2023,
+    "revenus": 2000
+  },
+  {
+    "mois": "Mai",
+    "annee": 2023,
+    "revenus": 8000
   },
   {
     "mois": "Janvier",
     "annee": 2022,
-    "revenus": 800,
-    "depenses": 300
+    "revenus": 800
+  },
+  {
+    "mois": "Avril",
+    "annee": 2022,
+    "revenus": 100
+  },
+  {
+    "mois": "Juin",
+    "annee": 2022,
+    "revenus": 8000
+  },
+  {
+    "mois": "Décembre",
+    "annee": 2023,
+    "revenus": 10000
   }
 ]

@@ -65,7 +65,7 @@ export default {
 
     onMounted(async () => {
       try {
-        const response = await axios.get('http://localhost:5000/ventes');
+        const response = await axios.get('http://localhost:5000/data');
         ventes.value = response.data;
         updateCharts();
       } catch (error) {

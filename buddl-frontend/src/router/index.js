@@ -1,15 +1,15 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import VentesView from '../views/VentesView.vue'; // Utilise VentesView
-import ProduitView from '../views/ProduitView.vue'; // Utilise ProduitView
+import VentesView from '../views/VentesView.vue';
+import ProduitView from '../views/ProduitView.vue'; 
 
 const routes = [
   {
     path: '/ventes',
-    component: VentesView // Utilise VentesView
+    component: VentesView 
   },
   {
     path: '/produits',
-    component: ProduitView // Utilise ProduitView
+    component: ProduitView 
   },
   {
     path: '/',

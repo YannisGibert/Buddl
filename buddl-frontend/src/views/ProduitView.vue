@@ -1,10 +1,10 @@
 <template>
-    <div>
-      <ProduitCharts />
-    </div>
-  </template>
+  <div>
+    <ProduitCharts />
+  </div>
+</template>
   
-  <script>
+<script>
   import ProduitCharts from '../components/ProduitCharts.vue'; 
   
   export default {
@@ -13,4 +13,4 @@
       ProduitCharts
     }
   };
-  </script>
+</script>
