@@ -1,0 +1,17 @@
+[
+    {
+      "nom": "Guychel",
+      "âge": 22,
+      "ville": "Toulouse"
+    },
+    {
+      "nom": "Yannis",
+      "âge": 22,
+      "ville": "Toulouse"
+    },
+    {
+        "nom": "Rayan",
+        "âge": 20,
+        "ville": "Toulouse"
+    }
+]

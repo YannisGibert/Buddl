@@ -1,0 +1,20 @@
+[
+  {
+    "mois": "Janvier",
+    "annee": 2023,
+    "revenus": 1000,
+    "depenses": 400
+  },
+  {
+    "mois": "Février",
+    "annee": 2023,
+    "revenus": 1500,
+    "depenses": 500
+  },
+  {
+    "mois": "Janvier",
+    "annee": 2022,
+    "revenus": 800,
+    "depenses": 300
+  }
+]
